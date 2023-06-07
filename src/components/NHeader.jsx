@@ -35,7 +35,7 @@ const NHeader = () => {
         <DrawerOverlay />
         <DrawerContent>
           <DrawerCloseButton />
-          <DrawerHeader>CRYPTOVERSE</DrawerHeader>
+          <DrawerHeader>XCrypto</DrawerHeader>
           <DrawerBody>
             <VStack alignItems={"flex-start"}>
               <Button onClick={onClose} variant={"ghost"} colorScheme={"black"}><Link to={"/"}>Home</Link></Button>

@@ -48,7 +48,7 @@ const Home = () => {
             </Heading>
             <Text w={inPhone ? "full" : "60%"} textAlign={"center"} color={"ButtonHighlight"}>
               Our proffesional traders have excellent knowlegde to trade in
-              Crypro Era, They are avialable 24/7 to help you to grow in Crypto
+              Crypto Era, They are avialable 24/7 to help you to grow in Crypto
               world.
             </Text>
           </VStack>
